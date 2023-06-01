@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+#gameTitle {
+  color: #404040;
+}
+
+.square {
+  width: 2em;
+  height: 2em;
+  font-size: 2em;
+}
